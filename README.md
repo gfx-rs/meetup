@@ -17,3 +17,5 @@ gfx-rs survived Rust stabilization. It survived the coming of DX12 and Vulkan. B
 This talk will go into how rend3 deals with the conflicting requirements of ease of use, customizability, and efficiency. rend3 strikes a balance between all of these requirements through careful scope reduction, ubiquitous defaults, and optimized use of data structures.
 
 ### Blub - Interactive GPU fluid solver - @wumpf
+
+A short tour into a wgpu powered APIC fluid solver. After a short demonstration, we'll explore how the base algorithm works and talk about some selected details of the implementation.
